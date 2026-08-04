@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite both the software and the paper below."
+title: "Analysis code for: Multi-trait selection defines a plant-architecture ideotype for soybean in the Russian Far East"
+abstract: >-
+  R code and plot-level data for the analysis of six plant-architecture traits in 63 soybean
+  accessions evaluated over three growing seasons (2018-2020) at the Far Eastern Research
+  Institute of Agriculture, Khabarovsk Krai, Russia. Covers variance partitioning, genetic
+  parameters and genotypic values, leave-one-year-out cross-validation, multivariate
+  structure, and multi-trait selection with MGIDI and MTSI.
+type: software
+authors:
+  - family-names: Habib
+    given-names: Yawar
+    email: y.habib@skoltech.ru
+    orcid: "https://orcid.org/0009-0008-1812-3910"
+    affiliation: "Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology, Moscow, Russia"
+license: MIT
+repository-code: "https://github.com/yawarhabib/soybean-architecture-ideotype"
+url: "https://github.com/yawarhabib/soybean-architecture-ideotype"
+keywords:
+  - soybean
+  - Glycine max
+  - plant architecture
+  - ideotype
+  - multi-trait selection
+  - MGIDI
+  - MTSI
+  - broad-sense heritability
+  - Russian Far East
+preferred-citation:
+  type: article
+  title: "Multi-trait selection defines a plant-architecture ideotype for soybean in the Russian Far East"
+  authors:
+    - family-names: Habib
+      given-names: Yawar
+      orcid: "https://orcid.org/0009-0008-1812-3910"
+      affiliation: "Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology, Moscow, Russia"
+    - family-names: Aseeva
+      given-names: Tatiana
+      affiliation: "Far Eastern Research Institute of Agriculture, Khabarovsk Federal Research Center, Far East Branch, Russian Academy of Sciences, Vostochnoe, Khabarovsk krai, Russia"
+    - family-names: Shepel
+      given-names: Oksana
+      affiliation: "Far Eastern Research Institute of Agriculture, Khabarovsk Federal Research Center, Far East Branch, Russian Academy of Sciences, Vostochnoe, Khabarovsk krai, Russia"
+    - family-names: Potokina
+      given-names: Elena
+      affiliation: "Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology, Moscow, Russia"
+  journal: "Frontiers in Plant Science"
+  year: 2026
