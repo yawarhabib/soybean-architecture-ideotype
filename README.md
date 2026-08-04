@@ -1,5 +1,8 @@
 # Multi-trait selection defines a plant-architecture ideotype for soybean in the Russian Far East
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21792792.svg)](https://doi.org/10.5281/zenodo.21792792)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 Analysis code and data for the study of plant-architecture traits in 63 soybean
 (*Glycine max* (L.) Merr.) accessions evaluated over three growing seasons (2018–2020) at the
 Far Eastern Research Institute of Agriculture, Vostochnoye, Khabarovsk Krai, Russia.
@@ -114,8 +117,19 @@ reproducible. Everything else in the analysis is deterministic.
 
 ## Citation
 
-Habib Y., Aseeva T., Shepel O., Potokina E. Multi-trait selection defines a plant-architecture
-ideotype for soybean in the Russian Far East. *Frontiers in Plant Science* (under review).
+Please cite the paper:
+
+> Habib Y., Aseeva T., Shepel O., Potokina E. Multi-trait selection defines a plant-architecture
+> ideotype for soybean in the Russian Far East. *Frontiers in Plant Science* (under review).
+
+and, if you use the code or the data, this archive:
+
+> Habib Y. (2026). *Analysis code for: Multi-trait selection defines a plant-architecture
+> ideotype for soybean in the Russian Far East*. Zenodo.
+> https://doi.org/10.5281/zenodo.21792792
+
+The DOI above is the concept DOI and always resolves to the most recent release. The release
+archived here, `v1.0.0`, has its own DOI: https://doi.org/10.5281/zenodo.21792793
 
 ## Contact
 

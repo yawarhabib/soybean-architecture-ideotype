@@ -14,6 +14,16 @@ authors:
     email: y.habib@skoltech.ru
     orcid: "https://orcid.org/0009-0008-1812-3910"
     affiliation: "Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology, Moscow, Russia"
+version: v1.0.0
+date-released: "2026-08-04"
+doi: "10.5281/zenodo.21792792"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21792792"
+    description: "Concept DOI, always resolves to the most recent release"
+  - type: doi
+    value: "10.5281/zenodo.21792793"
+    description: "DOI of release v1.0.0"
 license: MIT
 repository-code: "https://github.com/yawarhabib/soybean-architecture-ideotype"
 url: "https://github.com/yawarhabib/soybean-architecture-ideotype"
