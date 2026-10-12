@@ -1,5 +1,6 @@
 # Multi-trait selection defines a plant-architecture ideotype for soybean in the Russian Far East
 
+[![Paper](https://img.shields.io/badge/Paper-10.3389%2Ffpls.2026.1922888-blue.svg)](https://doi.org/10.3389/fpls.2026.1922888)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21792792.svg)](https://doi.org/10.5281/zenodo.21792792)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -119,8 +120,9 @@ reproducible. Everything else in the analysis is deterministic.
 
 Please cite the paper:
 
-> Habib Y., Aseeva T., Shepel O., Potokina E. Multi-trait selection defines a plant-architecture
-> ideotype for soybean in the Russian Far East. *Frontiers in Plant Science* (under review).
+> Habib Y., Aseeva T., Shepel O., Potokina E. (2026). Multi-trait selection defines a
+> plant-architecture ideotype for soybean in the Russian Far East. *Frontiers in Plant Science*,
+> 17, 1922888. https://doi.org/10.3389/fpls.2026.1922888
 
 and, if you use the code or the data, this archive:
 

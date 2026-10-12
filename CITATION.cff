@@ -55,4 +55,13 @@ preferred-citation:
       given-names: Elena
       affiliation: "Center for Bio and Medical Technologies, Skolkovo Institute of Science and Technology, Moscow, Russia"
   journal: "Frontiers in Plant Science"
+  volume: 17
+  start: 1922888
   year: 2026
+  month: 9
+  date-published: "2026-09-04"
+  issn: "1664-462X"
+  publisher:
+    name: "Frontiers Media SA"
+  doi: "10.3389/fpls.2026.1922888"
+  url: "https://www.frontiersin.org/articles/10.3389/fpls.2026.1922888/full"
