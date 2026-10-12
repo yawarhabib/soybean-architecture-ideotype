@@ -6,7 +6,6 @@ Manuscript_*.docx
 *.pdf
 unpacked/
 unpacked_final/
-.claude/
 
 # R
 .Rhistory
