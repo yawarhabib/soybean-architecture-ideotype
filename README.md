@@ -118,20 +118,11 @@ reproducible. Everything else in the analysis is deterministic.
 
 ## Citation
 
-Please cite the paper:
+If you use the paper, the code or the data, please cite the paper:
 
-> Habib Y., Aseeva T., Shepel O., Potokina E. (2026). Multi-trait selection defines a
-> plant-architecture ideotype for soybean in the Russian Far East. *Frontiers in Plant Science*,
-> 17, 1922888. https://doi.org/10.3389/fpls.2026.1922888
-
-and, if you use the code or the data, this archive:
-
-> Habib Y. (2026). *Analysis code for: Multi-trait selection defines a plant-architecture
-> ideotype for soybean in the Russian Far East*. Zenodo.
-> https://doi.org/10.5281/zenodo.21792792
-
-The DOI above is the concept DOI and always resolves to the most recent release. The release
-archived here, `v1.0.0`, has its own DOI: https://doi.org/10.5281/zenodo.21792793
+> Habib Y, Aseeva T, Shepel O and Potokina E (2026) Multi-trait selection defines a
+> plant-architecture ideotype for soybean in the Russian Far East. *Front. Plant Sci.*
+> 17:1922888. doi: [10.3389/fpls.2026.1922888](https://doi.org/10.3389/fpls.2026.1922888)
 
 ## Contact
 

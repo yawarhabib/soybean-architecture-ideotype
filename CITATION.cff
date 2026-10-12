@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite both the software and the paper below."
+message: "If you use this code or data, please cite the paper below."
 title: "Analysis code for: Multi-trait selection defines a plant-architecture ideotype for soybean in the Russian Far East"
 abstract: >-
   R code and plot-level data for the analysis of six plant-architecture traits in 63 soybean
